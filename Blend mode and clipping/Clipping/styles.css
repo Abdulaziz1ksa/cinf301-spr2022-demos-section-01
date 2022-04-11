@@ -1,0 +1,11 @@
+body > #bg {
+  height: 100%;
+  width: 100%;
+  background-color: blue;
+  clip-path: polygon(100% 0, 0% 100%, 39% 84%);
+
+  position: absolute;
+}
+
+/* https://bennettfeely.com/clippy/ */
+
